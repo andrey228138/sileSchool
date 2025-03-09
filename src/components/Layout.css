@@ -1,0 +1,35 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+}
+
+.button-url {
+  padding: 15px 40px;
+  width: fit-content;
+  color: white;
+  background-color: rgb(60, 60, 60);
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 390px) {
+  header {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0;
+  }
+
+  .button-url {
+    width: 100%;
+    padding: 15px 0;
+  }
+
+  .url {
+    width: 100%;
+  }
+}
