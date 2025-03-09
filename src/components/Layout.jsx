@@ -11,11 +11,11 @@ const navLinkObjects = [
     content: "Easy",
   },
   {
-    to: "/normal",
+    to: "/normal", // Добавлен "/" в начало
     content: "Normal",
   },
   {
-    to: "/hard", // Добавлен "/" в начало пути
+    to: "/hard", // Добавлен "/" в начало
     content: "Hard",
   },
 ];
