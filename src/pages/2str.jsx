@@ -2,7 +2,7 @@ export default function StrTwo (){
     return(
    <>
    <main>
-    <p>2str</p>
+    <p>2sasdasdtr</p>
     </main>
    </>     
     )
