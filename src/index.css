@@ -18,3 +18,12 @@ button{cursor: pointer;}
    padding: 0px 10px;
    box-sizing: border-box;
   }
+  * {
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+}
+
+
+* {
+    user-select: none;
+}
