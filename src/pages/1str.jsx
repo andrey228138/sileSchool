@@ -2,7 +2,7 @@
 export default function StrOne (){
     return(
         <main>
-        <p>gfdstr</p>
+        <p>gfddddddddddddddddd324str</p>
         </main>  
     )
 }

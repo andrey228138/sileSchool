@@ -11,11 +11,11 @@ const objectLinks = [
     jsxElement: <StrOne />,
   },
   {
-    path: "normal",
+    path: "/normal", // Добавлен "/" в начало
     jsxElement: <StrTwo />,
   },
   {
-    path: "hard",
+    path: "/hard", // Добавлен "/" в начало
     jsxElement: <StrThree />,
   },
 ];
